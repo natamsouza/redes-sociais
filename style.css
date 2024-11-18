@@ -9,4 +9,7 @@
 
 body {
     background-color: var(--primary-color);
+    color:var(--bg-color);
+    color: var(#A594F9);
+
 }

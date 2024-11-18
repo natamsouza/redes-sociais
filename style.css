@@ -4,4 +4,9 @@
     --bg-color:#CDC1FF;
     --primary-color: #E5D9F2;
     --secundari-color: #A594F9;
+    --font:"Edu AU VIC WA NT Pre", cursive;
+}
+
+body {
+    background-color: var(--primary-color);
 }

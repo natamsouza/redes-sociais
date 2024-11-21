@@ -11,7 +11,7 @@ body {
     background-color: var(#A594F9);
 }
 h1 {
-    color: var(--bg-color)
+    color: var(--bg-color);
     color: var(--primary-color);
 
 }

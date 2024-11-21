@@ -2,7 +2,7 @@
 
 :root {
     --bg-color:#CDC1FF;
-    --primary-color: #E5D9F2;
+    --primary-color: #62398e;
     --secundari-color: #A594F9;
     --font:"Edu AU VIC WA NT Pre", cursive;
 }
@@ -10,6 +10,6 @@
 body {
     background-color: var(#A594F9);
     color:var(--bg-color);
-    color: var(--bg-color)
+    color: var(#62398e)
 
 }

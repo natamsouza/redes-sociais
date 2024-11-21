@@ -8,8 +8,8 @@
 }
 
 body {
-    background-color: var(--primary-color);
+    background-color: var(#A594F9);
     color:var(--bg-color);
-    color: var(#A594F9);
+    color: var(--bg-color)
 
 }

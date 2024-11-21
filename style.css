@@ -9,7 +9,12 @@
 
 body {
     background-color: var(#A594F9);
-    color:var(--bg-color);
+}
+h1 {
+    color:var(#CDC1FF);
     color: var(#62398e);
 
 }
+
+
+
